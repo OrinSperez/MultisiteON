@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/MultisiteON/static/css/main.efcb08e9.chunk.css",
-    "main.js": "/MultisiteON/static/js/main.1a6cd4df.chunk.js",
-    "main.js.map": "/MultisiteON/static/js/main.1a6cd4df.chunk.js.map",
+    "main.js": "/MultisiteON/static/js/main.43dd78b8.chunk.js",
+    "main.js.map": "/MultisiteON/static/js/main.43dd78b8.chunk.js.map",
     "runtime-main.js": "/MultisiteON/static/js/runtime-main.8b41c8b3.js",
     "runtime-main.js.map": "/MultisiteON/static/js/runtime-main.8b41c8b3.js.map",
     "static/js/2.8281540b.chunk.js": "/MultisiteON/static/js/2.8281540b.chunk.js",
     "static/js/2.8281540b.chunk.js.map": "/MultisiteON/static/js/2.8281540b.chunk.js.map",
     "index.html": "/MultisiteON/index.html",
-    "precache-manifest.f29e0d0488fae6c26f798173bb337cee.js": "/MultisiteON/precache-manifest.f29e0d0488fae6c26f798173bb337cee.js",
+    "precache-manifest.b449c6a2af07e48ad1064cc2b7974005.js": "/MultisiteON/precache-manifest.b449c6a2af07e48ad1064cc2b7974005.js",
     "service-worker.js": "/MultisiteON/service-worker.js",
     "static/css/main.efcb08e9.chunk.css.map": "/MultisiteON/static/css/main.efcb08e9.chunk.css.map",
     "static/js/2.8281540b.chunk.js.LICENSE.txt": "/MultisiteON/static/js/2.8281540b.chunk.js.LICENSE.txt",
+    "static/media/Backup.png": "/MultisiteON/static/media/Backup.e622276d.png",
     "static/media/Control.png": "/MultisiteON/static/media/Control.24f81720.png",
-    "static/media/Pc.png": "/MultisiteON/static/media/Pc.5ac6fe36.png",
-    "static/media/Phone.png": "/MultisiteON/static/media/Phone.2427c94d.png",
+    "static/media/Principal.jpeg": "/MultisiteON/static/media/Principal.ee3be440.jpeg",
+    "static/media/Real.png": "/MultisiteON/static/media/Real.b1844a6e.png",
+    "static/media/Responsive0.png": "/MultisiteON/static/media/Responsive0.bbd6d0a5.png",
     "static/media/hosting.png": "/MultisiteON/static/media/hosting.86269de0.png",
-    "static/media/idea.png": "/MultisiteON/static/media/idea.f5cbbe1d.png",
-    "static/media/nube.png": "/MultisiteON/static/media/nube.53b83490.png",
     "static/media/seguridas.png": "/MultisiteON/static/media/seguridas.86124e80.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b41c8b3.js",
     "static/js/2.8281540b.chunk.js",
     "static/css/main.efcb08e9.chunk.css",
-    "static/js/main.1a6cd4df.chunk.js"
+    "static/js/main.43dd78b8.chunk.js"
   ]
 }
