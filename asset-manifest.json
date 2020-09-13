@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MultisiteON/static/css/main.efcb08e9.chunk.css",
+    "main.js": "/MultisiteON/static/js/main.b8f478ab.chunk.js",
+    "main.js.map": "/MultisiteON/static/js/main.b8f478ab.chunk.js.map",
+    "runtime-main.js": "/MultisiteON/static/js/runtime-main.8b41c8b3.js",
+    "runtime-main.js.map": "/MultisiteON/static/js/runtime-main.8b41c8b3.js.map",
+    "static/js/2.c3cad723.chunk.js": "/MultisiteON/static/js/2.c3cad723.chunk.js",
+    "static/js/2.c3cad723.chunk.js.map": "/MultisiteON/static/js/2.c3cad723.chunk.js.map",
+    "index.html": "/MultisiteON/index.html",
+    "precache-manifest.f1923e4de1b0a1a7778c81e3b4f83b55.js": "/MultisiteON/precache-manifest.f1923e4de1b0a1a7778c81e3b4f83b55.js",
+    "service-worker.js": "/MultisiteON/service-worker.js",
+    "static/css/main.efcb08e9.chunk.css.map": "/MultisiteON/static/css/main.efcb08e9.chunk.css.map",
+    "static/js/2.c3cad723.chunk.js.LICENSE.txt": "/MultisiteON/static/js/2.c3cad723.chunk.js.LICENSE.txt",
+    "static/media/Pc.png": "/MultisiteON/static/media/Pc.5ac6fe36.png",
+    "static/media/Phone.png": "/MultisiteON/static/media/Phone.2427c94d.png",
+    "static/media/idea.png": "/MultisiteON/static/media/idea.f5cbbe1d.png",
+    "static/media/nube.png": "/MultisiteON/static/media/nube.53b83490.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b41c8b3.js",
+    "static/js/2.c3cad723.chunk.js",
+    "static/css/main.efcb08e9.chunk.css",
+    "static/js/main.b8f478ab.chunk.js"
+  ]
+}
