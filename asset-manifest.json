@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/MultisiteON/static/css/main.efcb08e9.chunk.css",
-    "main.js": "/MultisiteON/static/js/main.886cbd62.chunk.js",
-    "main.js.map": "/MultisiteON/static/js/main.886cbd62.chunk.js.map",
+    "main.js": "/MultisiteON/static/js/main.9b563a72.chunk.js",
+    "main.js.map": "/MultisiteON/static/js/main.9b563a72.chunk.js.map",
     "runtime-main.js": "/MultisiteON/static/js/runtime-main.8b41c8b3.js",
     "runtime-main.js.map": "/MultisiteON/static/js/runtime-main.8b41c8b3.js.map",
-    "static/js/2.924d16f5.chunk.js": "/MultisiteON/static/js/2.924d16f5.chunk.js",
-    "static/js/2.924d16f5.chunk.js.map": "/MultisiteON/static/js/2.924d16f5.chunk.js.map",
+    "static/js/2.425786b1.chunk.js": "/MultisiteON/static/js/2.425786b1.chunk.js",
+    "static/js/2.425786b1.chunk.js.map": "/MultisiteON/static/js/2.425786b1.chunk.js.map",
     "index.html": "/MultisiteON/index.html",
-    "precache-manifest.b1db946acbcdc2b52827108aabae9c1d.js": "/MultisiteON/precache-manifest.b1db946acbcdc2b52827108aabae9c1d.js",
+    "precache-manifest.e0ae462fcd9947146248961b7e4ba160.js": "/MultisiteON/precache-manifest.e0ae462fcd9947146248961b7e4ba160.js",
     "service-worker.js": "/MultisiteON/service-worker.js",
     "static/css/main.efcb08e9.chunk.css.map": "/MultisiteON/static/css/main.efcb08e9.chunk.css.map",
-    "static/js/2.924d16f5.chunk.js.LICENSE.txt": "/MultisiteON/static/js/2.924d16f5.chunk.js.LICENSE.txt",
+    "static/js/2.425786b1.chunk.js.LICENSE.txt": "/MultisiteON/static/js/2.425786b1.chunk.js.LICENSE.txt",
     "static/media/Backup.png": "/MultisiteON/static/media/Backup.e622276d.png",
     "static/media/Control.png": "/MultisiteON/static/media/Control.24f81720.png",
     "static/media/Principal.jpeg": "/MultisiteON/static/media/Principal.ee3be440.jpeg",
     "static/media/Responsive0.png": "/MultisiteON/static/media/Responsive0.bbd6d0a5.png",
     "static/media/contacto.png": "/MultisiteON/static/media/contacto.1c540709.png",
+    "static/media/facebook.svg": "/MultisiteON/static/media/facebook.60f532b7.svg",
     "static/media/hosting.png": "/MultisiteON/static/media/hosting.86269de0.png",
+    "static/media/instagram-icon.svg": "/MultisiteON/static/media/instagram-icon.4c7ce1b0.svg",
     "static/media/marketing.png": "/MultisiteON/static/media/marketing.70585691.png",
     "static/media/seguridas.png": "/MultisiteON/static/media/seguridas.86124e80.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b41c8b3.js",
-    "static/js/2.924d16f5.chunk.js",
+    "static/js/2.425786b1.chunk.js",
     "static/css/main.efcb08e9.chunk.css",
-    "static/js/main.886cbd62.chunk.js"
+    "static/js/main.9b563a72.chunk.js"
   ]
 }
